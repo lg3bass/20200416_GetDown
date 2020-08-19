@@ -1,0 +1,19 @@
+# /BW_PUBLISH/20200416_GetDown/ #
+#################################################
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# PROJECT FILES I DON'T WANT ON GIT #
+#####################################
+getDown\ Project/Backup/
+getDown\ Project/M4L/zOLD/
+getDown\ Project/zOLD/
+VIDEO/
